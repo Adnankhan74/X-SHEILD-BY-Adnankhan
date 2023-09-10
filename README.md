@@ -1,4 +1,4 @@
-# X-SHEILD
+# X-SHEILD by Adnan Khan
 #### Study Python & Cyber Security by implementing Virus Total functions in a tkinter UI!
 
 ![Example](resources/Ex.PNG)
