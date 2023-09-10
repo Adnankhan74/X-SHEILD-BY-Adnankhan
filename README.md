@@ -1,4 +1,4 @@
-# virusTotal-ui-python
+# X-SHEILD
 #### Study Python & Cyber Security by implementing Virus Total functions in a tkinter UI!
 
 ![Example](resources/Ex.PNG)
